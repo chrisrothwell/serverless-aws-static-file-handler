@@ -10,7 +10,8 @@
   },
   "devDependencies": {
     "prettier": "^1.15.3",
-    "serverless": "^1.35.1"
+    "serverless": "^1.35.1",
+    "serverless-offline": "^4.10.6"
   },
   "dependencies": {
     "serverless-aws-static-file-handler": "^2.0.0"

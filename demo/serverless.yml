@@ -2,6 +2,7 @@ service: static-file-handler-demo-proxy
 
 plugins:
   - serverless-aws-static-file-handler/plugins/BinaryMediaTypes
+  - serverless-offline
 
 custom:
   apiGateway:
